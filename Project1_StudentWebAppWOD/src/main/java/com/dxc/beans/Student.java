@@ -1,3 +1,4 @@
+//this is Student bean
 package com.dxc.beans;
 
 import java.io.Serializable;
